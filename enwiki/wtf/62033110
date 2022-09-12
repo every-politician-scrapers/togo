@@ -1,0 +1,110 @@
+{
+  "title": "Pius Agbetomey",
+  "pageID": 62033110,
+  "categories": [
+    "Togolese Christians",
+    "Law of Togo"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kokouvi Pius Agbetomey (born July 11, 1956) is a Togolese Juge.",
+              "formatting": {
+                "bold": [
+                  "Kokouvi Pius Agbetomey"
+                ]
+              }
+            },
+            {
+              "text": "He is Togo’s Minister of Justice and Relations with the Republic’s Institutions since June 28, 2015.",
+              "links": [
+                {
+                  "text": "Togo’s Minister of Justice",
+                  "type": "internal",
+                  "page": "Ministry of Justice (Togo)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Togolese lawyer",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.republicoftogo.com/Toutes-les-rubriques/Medias/Pius-Agbetomey-Tout-va-beaucoup-mieux",
+          "title": "Pius Agbetomey : ‘Tout va beaucoup mieux’",
+          "last": "republicoftogo.com",
+          "website": "République Togolaise",
+          "language": "fr",
+          "access-date": "2019-10-11",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.togofirst.com/en/economic-governance/1303-2748-togo-11th-notaries-forum-ongoing-in-lome",
+          "title": "Togo: 11th Notaries forum ongoing in Lomé",
+          "last": "First",
+          "first": "Togo",
+          "website": "www.togofirst.com",
+          "language": "en-gb",
+          "access-date": "2019-10-11",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://country.eiu.com/article.aspx?articleid=1526926136&Country=Togo&topic=Summary&subtopic=Political+structure",
+          "title": "Political structure",
+          "website": "country.eiu.com",
+          "access-date": "2019-10-11",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://tg.usembassy.gov/togolese-authorities-receive-anti-trafficking-training/",
+          "title": "Togolese Authorities receive Anti-trafficking Training",
+          "date": "2015-10-19",
+          "website": "U.S. Embassy in Togo",
+          "language": "en-US",
+          "access-date": "2019-10-11",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://justice.gouv.tg/node/298",
+          "title": "Biography- Kokouvi Pius AGBETOMEY",
+          "website": "MINISTER OF JUSTICE, MINISTRY OF JUSTICE",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.china.org.cn/world/Off_the_Wire/2015-06/29/content_35931708.htm",
+          "title": "Togolese PM discloses 22-member cabinet - China.org.cn",
+          "website": "www.china.org.cn",
+          "access-date": "2019-10-11",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}
