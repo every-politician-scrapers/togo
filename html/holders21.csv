@@ -1,5 +1,7 @@
 position,person,personID,start,end
 President,Étienne Gnassingbé Eyadéma,Q155385,1967-04-14,2005-02-05
+President,Faure Essozimna Gnassingbé Eyadéma,Q4414,2005-02-05,2005-02-25
+President,Bonfoh Abass,Q305669,2005-02-25,2005-05-04
 President,Faure Essozimna Gnassingbé Eyadéma,Q4414,2005-05-04,
 Prime Minister,Eugene Koffi Adoboli,Q1373139,1999-05-21,2000-08-31
 Prime Minister,Agbéyomé Kodjo,Q392055,2000-08-31,2002-06-29
@@ -9,8 +11,15 @@ Prime Minister,Yawovi Agboyibo,Q747770,2006-09-16,2007-12-06
 Prime Minister,Komlan Mally,Q269076,2007-12-06,2008-09-08
 Prime Minister,Gilbert Houngbo,Q57878,2008-09-08,2012-07-23
 Prime Minister,Kwesi Ahoomey-Zunu,Q57850,2012-07-23,2015-06-10
-Prime Minister,Komi Klassou,Q6428317,2015-06-10,
+Prime Minister,Komi Klassou,Q6428317,2015-06-10,2020-09-28
 Prime Minister,Victoire Dogbé Tomegah,Q16682496,2020-09-28,
+Minister of Finance,Abdoul-Hamid Segoun Tidjani Dourodjaye,Q113946231,1999,2000
+Minister of Finance,Tankpadja Lalle,Q113946236,2000,2002
+Minister of Finance,Ayawovi Demba Tignokpa,Q113946233,2002,2003
+Minister of Finance,Kossi Assimaidou,Q113946235,2002,2002
+Minister of Finance,Débaba Bale,Q113946234,2003,2005
+Minister of Finance,Payadowa Boukpessi,Q113579024,2005,2007
+Minister of Finance,Adji Otèth Ayassor,Q113946232,2007,2016
 Minister of Finance,Sani Yaya,Q88219141,2016-08-01,
 Minister of Foreign Affairs,Joseph Kokou Koffigoh,Q1707420,1998,2000
 Minister of Foreign Affairs,Koffi Panou,Q6425687,2000,2002
@@ -22,5 +31,16 @@ Minister of Foreign Affairs,Kofi Esaw,Q1778364,2008-09-15,2010
 Minister of Foreign Affairs,Elliott Ohin,Q99293088,2010,2013-09-17
 Minister of Foreign Affairs,Robert Dussey,Q27756289,2013-09-17,
 Minister of Infrastructure and Transport,Zouréhatou Kassah-Traoré,Q110251228,2019-01-05,
+Minister of Justice,Seye Memene,Q113946296,1999,2002
+Minister of Justice,Katari Foli-Bazi,Q113946294,2002,2005
+Minister of Justice,Tchessa Abi,Q75863710,2005,2009
+Minister of Justice,Biossey Tozoun,Q113946291,2009,2011
 Minister of Justice,Tchitchao Tchalim,Q73364538,2011,2014
+Minister of Justice,Kofi Esaw,Q1778364,2013-09-17,2017
 Minister of Justice,Pius Agbetomey,Q85793465,2015-06-28,
+President of the National Assembly,Agbéyomé Kodjo,Q392055,1999-06-22,2000-08-29
+President of the National Assembly,Fambaré Ouattara Natchaba,Q2522820,2000-09-03,2005-02-05
+President of the National Assembly,Faure Essozimna Gnassingbé Eyadéma,Q4414,2005-02-05,2005-02-24
+President of the National Assembly,Bonfoh Abass,Q305669,2005-02-24,2013-07-25
+President of the National Assembly,Dama Dramani,Q5211860,2013-07-26,2018-12-20
+President of the National Assembly,Yawa Djigbodi Tségan,Q60965577,2019-01-23,
