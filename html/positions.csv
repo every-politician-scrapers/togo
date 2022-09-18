@@ -1,9 +1,12 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
-Q28015471,President of Togo,Q945,Q945,,Q866730,1960-04-27,,,,
-Q30100661,Prime Minister of Togo,Q945,Q945,,Q1187629,1960-04-27,,,,
+Q112671903,Health minister of Togo,Q945,,,,,,,,
+Q99312298,Justice Minister of Togo,Q945,,,,,,,,
+Q21296004,Member of the National Assembly of Togo,Q945,Q945,,,,,,,
 Q96393325,Minister of Finance,Q945,,,,,,,,Minister of Finance (Togo)
 Q18204397,Minister of Foreign Affairs,Q945,Q945,,,,,,,Minister of Foreign Affairs (Togo)
-Q112671903,Health minister of Togo,Q945,,,,,,,,
 Q110251231,Minister of Infrastructure and Transport,Q945,,,,,,,,
-Q99312298,Justice Minister of Togo,Q945,,,,,,,,
+Q28015471,President of Togo,Q945,Q945,,Q866730,1960-04-27,,,,
 Q113946320,President of the National Assembly of Togo,Q945,Q945,,Q6594821,,,,,
+Q30100661,Prime Minister of Togo,Q945,Q945,,Q1187629,1960-04-27,,,,
+Q30676431,Togolese Ambassador to China,,,,,,,,,List of ambassadors of Togo to China
+Q38251777,Togolese Ambassador to the United States,,,,,,,,,List of ambassadors of Togo to the United States
