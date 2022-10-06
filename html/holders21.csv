@@ -13,6 +13,18 @@ Prime Minister,Gilbert Houngbo,Q57878,2008-09-08,2012-07-23
 Prime Minister,Kwesi Ahoomey-Zunu,Q57850,2012-07-23,2015-06-10
 Prime Minister,Komi Klassou,Q6428317,2015-06-10,2020-09-28
 Prime Minister,Victoire Dogbé Tomegah,Q16682496,2020-09-28,
+Minister of State,Payadowa Boukpessi,Q113579024,2020-10-01,
+Minister of Agriculture,Antoine Lekpa Gbegbeni,Q114441751,2020-10-01,
+Minister of the Armed Forces,Essozimna Marguerite Gnakade,Q105550917,2020-10-01,
+"Minister of the Civil Service, Labour and Social Dialogue",Gilbert Bawara,Q16639103,2015-06-28,
+Minister of Commerce,Kodjo Adedze,Q114441755,2020-10-01,
+Minister of Communication and Media,Akodah Ayewouadan,Q114441750,2020-10-01,
+Minister of Culture and Tourism,Kossi Lamadokou,Q114441759,2020-10-01,
+Minister of the Digital Economy,Cina Lawson,Q16325277,2013-09-16,2019-01-04
+Minister of the Digital Economy,Cina Lawson,Q16325277,2019-01-24,2020-09-25
+Minister of the Digital Economy,Cina Lawson,Q16325277,2020-10-01,
+Minister of Education,Komla Dodzi Kokoroko,Q114441758,2020-10-01,
+Minister of the Environment,Katari Foli-Bazi,Q113946294,2020-10-01,
 Minister of Finance,Abdoul-Hamid Segoun Tidjani Dourodjaye,Q113946231,1999,2000
 Minister of Finance,Tankpadja Lalle,Q113946236,2000,2002
 Minister of Finance,Ayawovi Demba Tignokpa,Q113946233,2002,2003
@@ -21,6 +33,7 @@ Minister of Finance,Débaba Bale,Q113946234,2003,2005
 Minister of Finance,Payadowa Boukpessi,Q113579024,2005,2007
 Minister of Finance,Adji Otèth Ayassor,Q113946232,2007,2016
 Minister of Finance,Sani Yaya,Q88219141,2016-08-01,
+Minister of Financial Inclusion,Mazamesso Assih,Q112180599,2020-10-01,
 Minister of Foreign Affairs,Joseph Kokou Koffigoh,Q1707420,1998,2000
 Minister of Foreign Affairs,Koffi Panou,Q6425687,2000,2002
 Minister of Foreign Affairs,Roland Kpotsra,Q2162878,2002,2003
@@ -30,7 +43,11 @@ Minister of Foreign Affairs,Léopold Gnininvi,Q1667617,2007,2008-09-15
 Minister of Foreign Affairs,Kofi Esaw,Q1778364,2008-09-15,2010
 Minister of Foreign Affairs,Elliott Ohin,Q99293088,2010,2013-09-17
 Minister of Foreign Affairs,Robert Dussey,Q27756289,2013-09-17,
-Minister of Infrastructure and Transport,Zouréhatou Kassah-Traoré,Q110251228,2019-01-05,
+Minister of Health,Moustafa Mijiyawa,Q114441761,2020-10-01,
+Minister of Higher Education,Ihou Wateba,Q114441754,2020-10-01,
+Minister of Human Rights,Christian Eninam Trimua,Q109018470,2019-01-24,
+Minister of Infrastructure and Transport,Zouréhatou Kassah-Traoré,Q110251228,2019-01-05,2020-09-25
+Minister of Investment Promotion,Rose Kayi Mivedor,Q108093970,2020-11,
 Minister of Justice,Seye Memene,Q113946296,1999,2002
 Minister of Justice,Katari Foli-Bazi,Q113946294,2002,2005
 Minister of Justice,Tchessa Abi,Q75863710,2005,2009
@@ -38,6 +55,26 @@ Minister of Justice,Biossey Tozoun,Q113946291,2009,2011
 Minister of Justice,Tchitchao Tchalim,Q73364538,2011,2014
 Minister of Justice,Kofi Esaw,Q1778364,2013-09-17,2017
 Minister of Justice,Pius Agbetomey,Q85793465,2015-06-28,
+"Minister of the Maritime Economy, Fisheries and Coastal Protection",Edem Tengue,Q97368687,2020-10-01,
+Minister of Mines and Energy,Mawougno Aziablé,Q106764569,2020-10-01,
+Minister of Posts and Telecommunications,Cina Lawson,Q16325277,2010-05-28,2013-09-16
+Minister of Public Works,Zouréhatou Kassah-Traoré,Q110251228,2020-10-01,
+Minister of Rural Roads,Bouraïma Kanfitine Tchede-Issa,Q114441752,2020-10-01,
+Minister of Security and Civil Protection,Damehane Yark,Q16545858,2012-07,
+"Minister of Social Action, Women, and Literacy",Adjovi Lonlongno Apedo-Anakoma,Q112180579,2020-10-01,
+Minister of Sport,Lidi Kedjaka Gbessi Kama,Q106857717,2020-10-01,
+Minister of Territorial Administration,Payadowa Boukpessi,Q113579024,2015-06-28,
+"Minister of Town Planning, Housing and Land Reform",Koffi Tsolenyanu,Q114441756,2020-10-01,
+Minister of Transport,Affoh Atcha-Dédji,Q65150953,2020-10-01,
+Minister of Water,Bolidja Tiem,Q107022057,2020-10-01,
+Minister of Youth,Myriam Dossou de Souza-D'Almeida,Q114441762,2020-10-01,
+Secretary General of the Government,Kanka-Malik Natchaba,Q114005610,2020-09-28,
+Secretary General of the Presidency,Sandra Ablamba Johnson,Q108385139,2020-09-28,
+Minister Delegate for Technical Education and Handicrafts,Kokou Eke Odin,Q114441757,2020-10-01,
+Minister Delegate for Territorial Development,Essomanam Edjeba,Q114441753,2020-10-01,
+Minister Delegate for Universal Access to Healthcare,Mamissilé Akla Agba Assih,Q114441760,2020-10-01,
+Government Spokesperson,Christian Eninam Trimua,Q109018470,2020-10-01,
+Government Spokesperson,Akodah Ayewouadan,Q114441750,2020-10-01,
 President of the National Assembly,Agbéyomé Kodjo,Q392055,1999-06-22,2000-08-29
 President of the National Assembly,Fambaré Ouattara Natchaba,Q2522820,2000-09-03,2005-02-05
 President of the National Assembly,Faure Gnassingbé,Q4414,2005-02-05,2005-02-24
