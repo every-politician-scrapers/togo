@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+        "name": "Togo",
+        "id": "Q945"
+    },
+    "cabinet": {
+      "id":     "Q109037630",
+      "start":  "2022-05-01",
+      "end":    "2022-05-31",
+      "parent": "Q5176457"
+    },
+    "reference": {
+        "P248": "Q114398425",
+        "P304": "643"
+    },
+    "lang": "en",
+    "person_description": {
+        "en": "Togolese politician"
+    }
+}
