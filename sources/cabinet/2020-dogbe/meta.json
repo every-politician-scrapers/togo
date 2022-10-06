@@ -1,0 +1,19 @@
+{
+    "jurisdiction": {
+        "name": "Togo",
+        "id": "Q945"
+    },
+    "cabinet": {
+      "id":     "Q109037630",
+      "start":  "2020-10-01",
+      "parent": "Q5176457"
+    },
+    "reference": {
+        "P4656": "https://fr.wikipedia.org/wiki/Gouvernement_Victoire_Tomegah_Dogb%C3%A9"
+    },
+    "lang": "fr",
+    "current_only": "true",
+    "person_description": {
+        "en": "politician in Togo"
+    }
+}
