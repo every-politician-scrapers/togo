@@ -1,0 +1,118 @@
+{
+  "title": "Essozimna Marguerite Gnakade",
+  "pageID": 66799431,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Government ministers of Togo",
+    "Women government ministers of Togo",
+    "Female defence ministers",
+    "21st-century Togolese women politicians",
+    "21st-century Togolese politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Essozimna Marguerite Gnakade is a Togolese politician.",
+              "links": [
+                {
+                  "text": "Togolese politician",
+                  "type": "internal",
+                  "page": "Togo"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Essozimna Marguerite Gnakade"
+                ]
+              }
+            },
+            {
+              "text": "On 1 October 2020 she was appointed defence minister in Togo, the first woman to hold that role.",
+              "links": [
+                {
+                  "text": "defence minister",
+                  "type": "internal",
+                  "page": "defence minister"
+                },
+                {
+                  "type": "internal",
+                  "page": "Togo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Gnadake does not have previous military experience."
+            },
+            {
+              "text": "She was the wife of Ernest Gnassingbé, the deceased brother of Togo's president Faure Gnassingbé.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Faure Gnassingbé"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Togolese politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Togo names new government with record number of women ministers",
+          "date": "2 October 2020",
+          "website": "Reuters",
+          "url": "https://www.reuters.com/article/us-togo-politics-idUSKBN26N2WA",
+          "access-date": "16 February 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Togo: Faure Gnassingbé confirme que l'armée togolaise est la propriété privée des Gnassingbé payée par le contribuable !",
+          "date": "2 October 2020",
+          "url": "https://www.27avril.com/blog/actualites/politiques/togo-faure-gnassingbe-confirme-que-larmee-togolaise-est-la-propriete-privee-des-gnassingbe-payee-par-le-contribuable",
+          "website": "27april.com",
+          "access-date": "16 February 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "Dwayne Wong (Omowale)",
+          "title": "Togo's First Female Prime Minister Does Not Erase the Oppression Togolese Women Endure",
+          "date": "30 November 2020",
+          "url": "https://dwomowale.medium.com/togos-first-female-prime-minister-does-not-erase-the-oppression-togolese-women-endure-8481e71547b8",
+          "website": "dwomowale.medium.com",
+          "access-date": "16 February 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "togo-bio-stub"
+        }
+      ]
+    }
+  ]
+}
