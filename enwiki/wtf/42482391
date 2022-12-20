@@ -1209,6 +1209,64 @@
       ]
     },
     {
+      "title": "International Memberships",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lawson is a member of the World Bank Group's Advisory Council on Gender and Development, which is the main external consultative body helping the World Bank Group promote gender equality.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "World Bank Group"
+                }
+              ]
+            },
+            {
+              "text": "She also sits on the Board of Directors of Innovations for Poverty Action, a anti-poverty research and policy nonprofit.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Innovations for Poverty Action"
+                }
+              ]
+            },
+            {
+              "text": "In November 2022, she joined CEGA's External Advisory Board, which advises CEGA on high-level strategy, fundraising, and partnership development for a two-year renewable term.",
+              "links": [
+                {
+                  "text": "CEGA",
+                  "type": "internal",
+                  "page": "Center for Effective Global Action"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
       "title": "International Awards and Recognition",
       "depth": 0,
       "paragraphs": [
