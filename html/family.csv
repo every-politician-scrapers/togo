@@ -1,5 +1,8 @@
 id,name,relationship,relative,relativename
+Q105550917,Essozimna Marguerite Gnakade,spouse,Q115928961,Ernest Gnassingbé
+Q114441751,Antoine Lekpa Gbegbeni,father,Q115929706,Nanameli Gbegbeni
 Q155385,Étienne Gnassingbé Eyadéma,child,Q4414,Faure Gnassingbé
 Q155385,Étienne Gnassingbé Eyadéma,child,Q6435718,Kpatcha Gnassingbé
 Q1778373,Koffi Sama,child,Q4414,Faure Gnassingbé
 Q4414,Faure Gnassingbé,father,Q155385,Étienne Gnassingbé Eyadéma
+Q4414,Faure Gnassingbé,sibling,Q115928961,Ernest Gnassingbé

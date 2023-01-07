@@ -14,8 +14,8 @@ Prime Minister,Kwesi Ahoomey-Zunu,Q57850,2012-07-23,2015-06-10
 Prime Minister,Komi Klassou,Q6428317,2015-06-10,2020-09-28
 Prime Minister,Victoire Dogbé Tomegah,Q16682496,2020-09-28,
 Minister of State,Payadowa Boukpessi,Q113579024,2020-10-01,
-Minister of Agriculture,Antoine Lekpa Gbegbeni,Q114441751,2020-10-01,
-Minister of the Armed Forces,Essozimna Marguerite Gnakade,Q105550917,2020-10-01,
+Minister of Agriculture,Antoine Lekpa Gbegbeni,Q114441751,2020-10,
+Minister of the Armed Forces,Essozimna Marguerite Gnakade,Q105550917,2020-10-01,2022-12-23
 "Minister of the Civil Service, Labour and Social Dialogue",Gilbert Bawara,Q16639103,2015-06-28,
 Minister of Commerce,Kodjo Adedze,Q114441755,2020-10-01,
 Minister of Communication and Media,Akodah Ayewouadan,Q114441750,2020-10-01,
@@ -33,7 +33,7 @@ Minister of Finance,Débaba Bale,Q113946234,2003,2005
 Minister of Finance,Payadowa Boukpessi,Q113579024,2005,2007
 Minister of Finance,Adji Otèth Ayassor,Q113946232,2007,2016
 Minister of Finance,Sani Yaya,Q88219141,2016-08-01,
-Minister of Financial Inclusion,Mazamesso Assih,Q112180599,2020-10-01,
+Minister of Financial Inclusion,Mazamesso Assih,Q112180599,2020-10,
 Minister of Foreign Affairs,Joseph Kokou Koffigoh,Q1707420,1998,2000
 Minister of Foreign Affairs,Koffi Panou,Q6425687,2000,2002
 Minister of Foreign Affairs,Roland Kpotsra,Q2162878,2002,2003
@@ -67,7 +67,9 @@ Minister of Sport,Lidi Kedjaka Gbessi Kama,Q106857717,2020-10-01,
 Minister of Territorial Administration,Payadowa Boukpessi,Q113579024,2015-06-28,
 "Minister of Town Planning, Housing and Land Reform",Koffi Tsolenyanu,Q114441756,2020-10-01,
 Minister of Transport,Affoh Atcha-Dédji,Q65150953,2020-10-01,
+Minister of Water,Antoine Lekpa Gbegbeni,Q114441751,2018-02,2020-10
 Minister of Water,Bolidja Tiem,Q107022057,2020-10-01,
+Minister of Youth,Richard Attipoé,Q2000896,2006-09,2007-06
 Minister of Youth,Myriam Dossou de Souza-D'Almeida,Q114441762,2020-10-01,
 Secretary General of the Government,Kanka-Malik Natchaba,Q114005610,2020-09-28,
 Secretary General of the Presidency,Sandra Ablamba Johnson,Q108385139,2020-09-28,
